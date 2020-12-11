@@ -1,6 +1,6 @@
 # Streamlit-App
 
-The Project is deployed in heroku.
+The Project is deployed on heroku.
 
 https://pixelvide.herokuapp.com/
 
